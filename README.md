@@ -12,19 +12,6 @@ I am a frontend developer and a software engineering student. I am passionate ab
 - React
 - Git
 
-## Projects
-
-- 
-- 
-- 
-
-## Connect with Me
-
-You can find me on the following platforms:
-
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/polina-ponezha-a11284266/))
-
-
 
 
 
