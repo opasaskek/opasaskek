@@ -1,6 +1,7 @@
 # Hi there, I'm [Polina]! 👋
 
-![![image](https://github.com/opasaskek/opasaskek/assets/87444866/fe26ad2c-a5f3-4539-85af-ade1342b23c9)](images/profile-image.jpg)
+[![Profile Image](![image](https://github.com/opasaskek/opasaskek/assets/87444866/4879236c-13a4-4a87-85b2-c747724845e6))](images/profile-image.jpg)
+
 
 ## About Me
 
