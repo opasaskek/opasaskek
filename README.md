@@ -8,8 +8,7 @@ I am a frontend developer and a software engineering student. I am passionate ab
 
 - HTML5
 - CSS3
-- JavaScript
-- React
+- Java(** Starter **)
 - Git
 
 
