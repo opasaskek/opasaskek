@@ -10,7 +10,7 @@ I am a frontend developer and a software engineering student. I am passionate ab
 - CSS3
 - Java(** Starter **)
 - Git
-
+- С++
 
 
 
