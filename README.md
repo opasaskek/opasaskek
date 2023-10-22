@@ -8,7 +8,7 @@ I am a student of the software engineering. I am passionate about creating user-
 
 - FRONTEND(HTML,CSS3)
 - DESIGN(ASETPRICE,KRITA,ANIMATION)
-- Git(GitHub,BitBucket)
+- GIT(GitHub,BitBucket)
 - С++(Starter-University programm)
 
 
