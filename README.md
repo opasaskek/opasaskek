@@ -1,8 +1,6 @@
-# Hi there! 👋
-
 ## About Me
 
-I am a student of the software engineering. I am passionate about creating user-friendly and visually appealing web applications, game developing and draw pixel pictures. My goal is to continuously learn and improve my skills in the field of game development.
+I'm studying on college as a software developer. I'm passionate about creating user-friendly and visually appealing applications, game developing and draw pixel pictures. My goal is to continuously learn and improve my skills in the field of game development.
 
 ## Skills
 
